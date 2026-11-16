@@ -1,0 +1,15 @@
+{
+  "name": "rotana-star-crm-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple, professional Rent a Car Customer Service CRM backend for Rotana Star Rent A Car",
+  "scripts": {
+    "start": "node boot.cjs"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "xlsx": "^0.18.5"
+  }
+}
